@@ -1,0 +1,37 @@
+.header {
+    height: 200px;
+    background-color: #ffd1f5;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* 미디어 쿼리로 flex-direction: 넣기. */
+.row {
+    display: flex;
+}
+
+.navbar {
+    height: 50px;
+    background-color: #ffbff2;
+    justify-content: center;
+
+}
+
+.side {
+    padding: 3%;
+    background-color: #f0ddec;
+}
+.my_img {
+    height: 200px;
+    width: auto;
+}
+
+.hotel_img {
+    width: 600px;
+}
+
+.main {
+    padding: 3%;
+    width: 800px;
+    background-color: #d1c7cf;
+}
